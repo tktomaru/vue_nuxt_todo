@@ -1,0 +1,8 @@
+/hello:
+  $ref: ./paths/hello.yaml
+
+/zip:
+  $ref: ./paths/zip.yaml
+ 
+/swagger:
+  x-swagger-pipe: swagger_raw

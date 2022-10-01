@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "swagger" : "swagger"
+  },
+  "dependencies": {
+    "swagger": "^0.7.5",
+    "swagger-editor": "^4.4.2"
+  }
+}

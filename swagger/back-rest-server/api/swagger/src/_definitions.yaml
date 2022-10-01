@@ -1,0 +1,6 @@
+HelloWorldResponse:
+  $ref: ./definitions/HelloWorldResponse.yaml
+ErrorResponse:
+  $ref: ./definitions/ErrorResponse.yaml
+ZipResponse:
+  $ref: ./definitions/ZipResponse.yaml
